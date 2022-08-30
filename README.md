@@ -1,5 +1,4 @@
 # Code_stage_M1
-Code permettant d'obtenir les résultats de mon stage en M1 SOAC sur la classification de la cyclogenèse et des trajectoires
 
 Le fichier M1SOAC_Code_Rapport est un fichier jupyter notebook permettant d'obtenir les zones de cyclogenèse ainsi que leur trajectoires pour les dates suivantes : 
 10,17,24,31 janvier et 7 février.
